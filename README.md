@@ -56,3 +56,18 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+---
+
+### Others
+
+#### Publishment
+* [All In One Solidity(Printing)](https://chihaolu.gitbook.io/all-in-one-solidity/)
+* [All In One NFT Website Development(Constructing...)]()
+
+#### Rewards
+[【IT 鐵人 13th】ModernWeb 組 佳作《All In One NFT Website Development》](https://ithelp.ithome.com.tw/users/20140105/ironman/3939)
+[2016 第 14 屆竹園崗全國熱音大賽 - 高雄中學 - 冠軍, 最佳主唱, 最佳鼓手](https://www.youtube.com/watch?v=veJzjB6wAZs)
+
+#### Report
+[老師一個月出現上一次課就好？台大這門課為何能讓上千人搶修？](https://www.cw.com.tw/article/5118632)
