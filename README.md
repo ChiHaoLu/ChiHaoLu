@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm ChiHaoLu</h1>
 <h3 align="center">A Blockchain & DApp Developer from Taiwan</h3>
 
+  <p align="center">
+	<a href="mailto:qazwsxeric@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/me@ohidur.com-_?label=Send%20Mail&style=social&logo=gmail" alt="qazwsxeric@gmail.com"></a>
+	<a href="https://www.linkedin.com/in/ChiHaoLu"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://medium.com/@ChiHaoLu"><img src="http://img.shields.io/badge/-@ohidurbappy-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chihaolu&label=Profile%20views&color=0e75b6&style=flat" alt="chihaolu" /> </p>
 
 ## aka Mur**, ALu, Eric, Alfred
@@ -39,13 +45,7 @@
 
 ![ChiHaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiHaoLu&show_icons=true&theme=cobalt)
 
-
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiHaoLu&layout=compact)](https://github.com/ChiHaoLu/github-readme-stats)
-
-
-<br />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
