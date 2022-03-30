@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **swfLAB, KryptoCamp**
 
-- 🌱 I’m currently learning **ZKP(zkOptimistic, zkRollup, zkEVM), Circom(ZKP), Rust(Solana) & Golang(Geth)**
+- 🌱 I’m currently learning **ZKP(Circom, zkOptimistic, zkRollup, zkEVM), Rust(Solana) & Golang(Geth)**
 
 - 💬 Ask me about **Blockchain, Ethereum, Dapp, Solidity**
 
