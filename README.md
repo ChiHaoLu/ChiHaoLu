@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Blockchain, Ethereum, Dapp, Solidity**
 
-- 🥅 2022 Goals: Learn more about Cryptography & EVM
+- 🥅 2022 Goals: Learn more about **Cryptography & EVM**
 
-- ⚡ Fun fact: As a Band Lead & Bassist in Fusion Jazz Band - BusCLUB
+- ⚡ Fun fact: As a Band Lead & Bassist in Fusion Jazz Band - **BusCLUB**
 
 ### Connect with me:
 
