@@ -12,5 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           feed_list: "https://medium.com/@chihaolu"
