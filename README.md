@@ -35,6 +35,7 @@
 
 ### 📕 Latest Blog Posts
 
+* [Transaction, ContractMethods & Provider In Dapp](https://medium.com/taipei-ethereum-meetup/transaction-contractmethods-provider-in-dapp-cba7c8f8d599)
 * [How To Test The Smart Contract Of iParking NFT With Foundry](https://medium.com/@ChiHaoLu/how-to-test-the-smart-contract-of-iparking-nft-with-foundry-bc8bdbe6a359)
 * [超深度鐵人賽後自我審視](https://medium.com/@ChiHaoLu/%E8%B6%85%E6%B7%B1%E5%BA%A6%E9%90%B5%E4%BA%BA%E8%B3%BD%E5%BE%8C%E8%87%AA%E6%88%91%E5%AF%A9%E8%A6%96-289f2d78b4a4)
 * [Blockchain Development Improve Project](https://medium.com/@ChiHaoLu/blockchain-development-improve-project-65ed969ad253)
