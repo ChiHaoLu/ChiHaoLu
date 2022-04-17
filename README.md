@@ -34,36 +34,9 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-* [Transaction, ContractMethods & Provider In Dapp](https://medium.com/taipei-ethereum-meetup/transaction-contractmethods-provider-in-dapp-cba7c8f8d599)
-* [How To Test The Smart Contract Of iParking NFT With Foundry](https://medium.com/@ChiHaoLu/how-to-test-the-smart-contract-of-iparking-nft-with-foundry-bc8bdbe6a359)
-* [超深度鐵人賽後自我審視](https://medium.com/@ChiHaoLu/%E8%B6%85%E6%B7%B1%E5%BA%A6%E9%90%B5%E4%BA%BA%E8%B3%BD%E5%BE%8C%E8%87%AA%E6%88%91%E5%AF%A9%E8%A6%96-289f2d78b4a4)
-* [Blockchain Development Improve Project](https://medium.com/@ChiHaoLu/blockchain-development-improve-project-65ed969ad253)
-
-➡️ [more blog posts...](https://medium.com/@chihaolu)
-
----
-
 ### GitHub Stats
 
 
 ![ChiHaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiHaoLu&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiHaoLu&layout=compact)](https://github.com/ChiHaoLu/github-readme-stats)
-
-
----
-
-### Others
-
-#### Publishment
-* [All In One Solidity (Printing)](https://chihaolu.gitbook.io/all-in-one-solidity/)
-* [All In One NFT Website Development (Constructing...)]()
-
-#### Rewards
-* [【 IT 鐵人 13th 】Modern Web 組 佳作《 All In One NFT Website Development 》](https://ithelp.ithome.com.tw/users/20140105/ironman/3939)
-* [2016 第 14 屆竹園崗全國熱音大賽 - 高雄中學 - 冠軍, 最佳主唱, 最佳鼓手](https://www.youtube.com/watch?v=veJzjB6wAZs)
-
-#### Report
-* [老師一個月出現上一次課就好？台大這門課為何能讓上千人搶修？](https://www.cw.com.tw/article/5118632)
