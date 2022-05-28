@@ -15,9 +15,9 @@
 
 ## aka Mur**, ALu, Eric, Alfred
 
-- 🔭 I’m currently working on **swfLAB, KryptoCamp**
+- 🔭 I’m currently working on **swfLAB**
 
-- 🌱 I’m currently learning **ZKP(Circom, zkOptimistic, zkRollup, zkEVM), Rust(Solana) & Golang(Geth)**
+- 🌱 I’m currently learning **DeFi, ZKP(Circom, zkOptimistic, zkRollup, zkEVM), Rust(Solana) & Golang(Geth)**
 
 - 💬 Ask me about **Blockchain, Ethereum, Dapp, Solidity**
 
