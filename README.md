@@ -39,4 +39,4 @@
 
 ![ChiHaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiHaoLu&show_icons=true&theme=cobalt)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiHaoLu&layout=compact)](https://github.com/ChiHaoLu/github-readme-stats)
