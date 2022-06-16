@@ -39,5 +39,5 @@
 
 ![ChiHaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiHaoLu&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChihaoLu&layout=compact&hide=jupyter%20notebook&HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChihaoLu&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
