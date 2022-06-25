@@ -17,20 +17,14 @@
 
 - 🔭 I’m currently working on **swfLAB**
 
-- 🌱 I’m currently learning **DeFi, ZKP(Circom, zkOptimistic, zkRollup, zkEVM), Rust(Solana) & Golang(Geth)**
+- 🌱 I’m currently learning **DeFi, Layer2 & ZKP(Circom, Optimistic, zkRollup, zkEVM),to construct advanced patterns of Decentralized Application**
 
-- 💬 Ask me about **Blockchain, Ethereum, Dapp, Solidity**
+- 💬 Ask me about **Blockchain, Ethereum, Dapp & Smart Contract, Solidity**
 
 - 🥅 2022 Goals: Learn more about **Cryptography & EVM**
 
 - ⚡ Fun fact: As a Band Lead & Bassist in Fusion Jazz Band - **BusCLUB**
 
-### Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/chihaolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chihaolu" height="30" width="40" /></a>
-<a href="https://medium.com/@chihaolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chihaolu" height="30" width="40" /></a>
-</p>
 
 ---
 
