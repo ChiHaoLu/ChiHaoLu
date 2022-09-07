@@ -11,7 +11,7 @@
 - [My Website & Portfolio](https://chihaolu.me)
 - Multitasking Master and Mr.MurMur
 - Schwarzwälder Kirschtorte Lover with a small live-bearing Killi
-- [Donation: 0x2b83c71A59b926137D3E1f37EF20394d0495d72d(ERC20)](https://etherscan.io/address/0x2b83c71A59b926137D3E1f37EF20394d0495d72d) 🤣
+- [Donation](https://chihaolu.eth.xyz) 🤣
 
 ## aka Mur**, ALu, Eric, Alfred
 
