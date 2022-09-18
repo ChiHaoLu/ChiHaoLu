@@ -15,13 +15,13 @@
 
 ## aka Mur**, ALu, Eric, Alfred
 
-- 🔭 I’m currently working on **swfLAB**
+- 🔭 I’m currently working in **imToken Labs**, **swfLAB**
 
 - 🌱 I’m currently learning **DeFi, Layer2 & ZKP(Circom, Optimistic, zkRollup, zkEVM),to construct advanced patterns of Decentralized Application**
 
-- 💬 Ask me about **Blockchain, Ethereum, Dapp & Smart Contract, Solidity**
+- 💬 Ask me about **Blockchain, Ethereum, Dapp & Smart Contract**
 
-- 🥅 2022 Goals: Learn more about **Cryptography & EVM**
+- 🥅 2022 Goals: Learn more about **ZKP & L2**
 
 - ⚡ Fun fact: As a Band Lead & Bassist in Fusion Jazz Band - **BusCLUB**
 
