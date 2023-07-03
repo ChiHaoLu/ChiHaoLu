@@ -11,17 +11,17 @@
 - [My Website & Portfolio](https://chihaolu.me)
 - Multitasking Master and Mr.MurMur
 - Schwarzwälder Kirschtorte Lover with a small live-bearing Killi
-- [Donation](https://chihaolu.eth.xyz) 🤣
+- [Donation](https://chihaolu.eth.xyz) 🧧
 
 ## aka Mur**, ALu, Eric, Alfred
 
 - 🔭 I’m currently working in **imToken Labs**, **swfLAB**
 
-- 🌱 I’m currently learning **DeFi, Layer2 & ZKP(Circom, Optimistic, zkRollup, zkEVM),to construct advanced patterns of Decentralized Application**
+- 🌱 I’m currently learning **Layer2(focus on zkRollup) & ZKP(Circom, zkEVM), to construct advanced patterns of Decentralized Applications and the Underlying Architecture of Blockchain.**
 
 - 💬 Ask me about **Blockchain, Ethereum, Dapp & Smart Contract**
 
-- 🥅 2022 Goals: Learn more about **ZKP & L2**
+- 🥅 2023 Goals: Learn more about **Ethereum Core Dev**
 
 - ⚡ Fun fact: As a Band Lead & Bassist in Fusion Jazz Band - **BusCLUB**
 
