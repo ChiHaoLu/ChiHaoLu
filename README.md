@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChiHaoLu</h1>
-<h3 align="center">A Blockchain & DApp Developer from Taiwan</h3>
+<h3 align="center">A Blockchain Developer from Taiwan</h3>
 
 <p align="center">
 	<a href="mailto:qazwsxeric@gmail.com?subject=Github%20Visitor&body=Hi%20Ohidur,..."><img src="http://img.shields.io/badge/qazwsxeric@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="qazwsxeric@gmail.com"></a>
@@ -8,23 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=chihaolu&label=Profile%20views&color=0e75b6&style=flat" alt="chihaolu" />
 </p>
 
+## aka Mur**, ALu, Eric, Alfred
+
 - [My Website & Portfolio](https://chihaolu.me)
 - Multitasking Master and Mr.MurMur
 - Schwarzwälder Kirschtorte Lover with a small live-bearing Killi
 - [Donation](https://chihaolu.eth.xyz) 🧧
-
-## aka Mur**, ALu, Eric, Alfred
-
-- 🔭 I’m currently working in **imToken Labs**, **swfLAB**
-
-- 🌱 I’m currently learning **Layer2(focus on zkRollup) & ZKP(Circom, zkEVM), to construct advanced patterns of Decentralized Applications and the Underlying Architecture of Blockchain.**
-
-- 💬 Ask me about **Blockchain, Ethereum, Dapp & Smart Contract**
-
-- 🥅 2023 Goals: Learn more about **Ethereum Core Dev**
-
-- ⚡ Fun fact: As a Band Lead & Bassist in Fusion Jazz Band - **BusCLUB**
-
 
 ---
 
