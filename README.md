@@ -9,6 +9,6 @@
 </p>
 
 - [chihaolu.me](https://chihaolu.me)([chihaolu.eth](https://chihaolu.eth.xyz))
-- Solidity, Cairo, JS/TS, Golang, Python, C/C++
+- Solidity, Cairo, Circom/ZoKrates, JS/TS, Golang, Python, C/C++
 - DevOps, including CI/CD, testing strategy
 - Microservices and Containerization, including Docker, Kubernetes, cloud platforms
