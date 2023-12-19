@@ -11,4 +11,7 @@
 - [chihaolu.me](https://chihaolu.me)([chihaolu.eth](https://chihaolu.eth.xyz))
 - Multitasking Master and Mr.MurMur
 - Schwarzwälder Kirschtorte Lover with a small live-bearing Killi
-- Solidity, JS, TS, Golang, Python, C/C++
+
+### Skill Set
+- Solidity, Cairo, JS/TS, Golang, Python, C/C++
+- CI/CD, Dockers
