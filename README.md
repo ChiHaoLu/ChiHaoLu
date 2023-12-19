@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ChiHaoLu</h1>
+<h1 align="center">ChiHaoLu aka Mur**, ALu, うさみ, Alfred</h1>
 <h3 align="center">A Blockchain Developer from Taiwan</h3>
 
 <p align="center">
@@ -8,19 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=chihaolu&label=Profile%20views&color=0e75b6&style=flat" alt="chihaolu" />
 </p>
 
-## aka Mur**, ALu, Eric, Alfred
+## 
 
-- [My Website & Portfolio](https://chihaolu.me)
+- [chihaolu.me](https://chihaolu.me)([chihaolu.eth](https://chihaolu.eth.xyz) 🧧)
 - Multitasking Master and Mr.MurMur
 - Schwarzwälder Kirschtorte Lover with a small live-bearing Killi
-- [Donation](https://chihaolu.eth.xyz) 🧧
 
----
+### Skill set
 
-### GitHub Stats
-
-
-![ChiHaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiHaoLu&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChihaoLu&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
+- Solidity, JS, TS, Golang, Python, C/C++
