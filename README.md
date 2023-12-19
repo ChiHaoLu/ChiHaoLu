@@ -9,9 +9,6 @@
 </p>
 
 - [chihaolu.me](https://chihaolu.me)([chihaolu.eth](https://chihaolu.eth.xyz))
-- Multitasking Master and Mr.MurMur
-- Schwarzwälder Kirschtorte Lover with a small live-bearing Killi
-
-### Skill Set
 - Solidity, Cairo, JS/TS, Golang, Python, C/C++
-- CI/CD, Dockers
+- DevOps, including CI/CD, testing strategy
+- Microservices and Containerization, including Docker, Kubernetes, cloud platforms
