@@ -14,5 +14,5 @@
 - Microservices and Containerization, including Docker, Kubernetes, cloud platforms
 
 Contribute to:
-- consenlabs(imToken Labs): [Tokenlon](https://github.com/consenlabs/tokenlon-contracts), account-abstraction, cairo-contracts
+- imToken Labs: [Tokenlon](https://github.com/consenlabs/tokenlon-contracts), account-abstraction, cairo-contracts
 - SWFLabs: [DappChef](https://github.com/SWF-Lab/DappChef-MonoRepo), Starkatana
