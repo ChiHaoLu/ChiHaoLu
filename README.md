@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=chihaolu&label=Profile%20views&color=0e75b6&style=flat" alt="chihaolu" />
 </p>
 
-![](lovemore.gif)
-
 - [chihaolu.me](https://chihaolu.me)([chihaolu.eth](https://chihaolu.eth.xyz))
 - Solidity, Cairo, Circom/ZoKrates, JS/TS, Golang, Python, C/C++
 - DevOps, including CI/CD, testing strategy
